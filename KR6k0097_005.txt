@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:09.449903
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:16
 #+TITLE: 梵網經合註
 #+PROPERTY: CBETA_ID X38n0694
 #+PROPERTY: ID KR6k0097
